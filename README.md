@@ -2,7 +2,7 @@
 
 ## Real use case: API protection, usage quotas.
 
-Your version:
+
 
 Token bucket + sliding window algorithms
 
